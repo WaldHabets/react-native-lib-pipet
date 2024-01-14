@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-box-header.d.ts","sourceRoot":"","sources":["../../../src/components/pt-box-header.tsx"],"names":[],"mappings":"AAAA;;;GAGG;AAEH,OAAO,EAAE,EAAE,EAAE,iBAAiB,EAAE,MAAM,OAAO,CAAC;AA0B9C,QAAA,MAAM,WAAW,EAAE,EAAE,CACjB,iBAAiB,CAAC;IACd,KAAK,EAAE,MAAM,CAAC;IACd,KAAK,CAAC,EAAE,MAAM,GAAG,IAAI,CAAA;CACxB,CAAC,CAaL,CAAC;AAEF,eAAe,WAAW,CAAC"}

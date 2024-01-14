@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-button-back.d.ts","sourceRoot":"","sources":["../../../src/components/pt-button-back.tsx"],"names":[],"mappings":"AAAA;;;GAGG;AAEH,OAAO,EAAE,EAAE,EAAE,iBAAiB,EAAE,MAAM,OAAO,CAAC;AA8B9C,QAAA,MAAM,YAAY,EAAE,EAAE,CAClB,iBAAiB,CAAC;IACd,IAAI,EAAE,MAAM,CAAC;IACb,OAAO,CAAC,EAAE,MAAM,IAAI,CAAA;CACvB,CAAC,CAWL,CAAC;AAEF,eAAe,YAAY,CAAC"}

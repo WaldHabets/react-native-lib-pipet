@@ -1,0 +1,1 @@
+{"version":3,"file":"pt-page-base.d.ts","sourceRoot":"","sources":["../../../src/components/pt-page-base.tsx"],"names":[],"mappings":"AAAA;;;GAGG;AAEH,OAAO,EAAE,EAAE,EAAE,iBAAiB,EAAE,SAAS,EAAC,MAAM,OAAO,CAAC;AA8CxD,QAAA,MAAM,MAAM,EAAE,EAAE,CACZ,iBAAiB,CAAC;IACd,MAAM,CAAC,EAAE,MAAM,CAAC;IAChB,gBAAgB,CAAC,EAAE,SAAS,GAAC,IAAI,CAAA;CACpC,CAAC,CA4BL,CAAC;AAEF,eAAe,MAAM,CAAC"}
