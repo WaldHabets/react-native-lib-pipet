@@ -1,0 +1,59 @@
+{
+  "name": "react-native-pipet-components",
+  "version": "0.1.0",
+  "description": "Pipet Component for React Native",
+  "main": "lib/commonjs/index.js",
+  "scripts": {
+    "format": "prettier ./src/**/*.ts",
+    "prepare": "bob build",
+    "build": "bob build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc --noEmit"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "prettier": "^3.1.1",
+    "react-native-builder-bob": "^0.23.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3",
+    "react": "^18.2.0",
+    "react-native": "^0.73.1",
+    "react-native-svg": "^14.1.0",
+    "react-native-linear-gradient": "^2.8.3",
+    "@types/react": "^18.2.46",
+    "@types/node": "^20.10.6",
+    "@tsconfig/react-native": "^3.0.2"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-svg": "*",
+    "react-native-linear-gradient": "*"
+  },
+  "react-native-builder-bob": {
+    "source": "src",
+    "output": "lib",
+    "targets": [
+      "commonjs",
+      "module",
+      "typescript"
+    ]
+  },
+  "react-native": "src/index.ts",
+  "source": "src/index.ts",
+  "module": "lib/module/index.js",
+  "types": "lib/typescript/index.d.ts",
+  "files": [
+    "src",
+    "lib",
+    "!**/__tests__",
+    "!**/__fixtures__",
+    "!**/__mocks__"
+  ],
+  "eslintIgnore": [
+    "node_modules/",
+    "lib/"
+  ]
+}
